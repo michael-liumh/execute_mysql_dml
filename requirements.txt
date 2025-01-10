@@ -1,8 +1,7 @@
-aiomysql==0.2.0
 ConfigArgParse==1.7
 loguru==0.7.3
+mysql-connector-python==9.1.0
 pendulum==3.0.0
-PyMySQL==1.1.1
 python-dateutil==2.9.0.post0
 six==1.17.0
 time-machine==2.16.0
